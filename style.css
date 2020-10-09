@@ -13,7 +13,7 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 100px;  
+  margin-bottom: 100px;
 }
 
 .logo {
@@ -61,7 +61,7 @@ body {
   transition: opacity .5s;
 }
 
-.menu__item:after {
+.menu__item::after {
   position: absolute;
   left: 0;
   display: block;
