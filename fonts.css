@@ -1,12 +1,13 @@
 @font-face {
-    font-family: 'PTSerif';
-    src: url('fonts/PTSerif-Bold.woff') format('woff');
-    font-weight: 700;
-    font-style: normal;
+  font-family: 'PTSerif';
+  src: url('fonts/PTSerif-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
 }
+
 @font-face {
-    font-family: 'PTSerif';
-    src: url('fonts/PTSerif-Regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
+  font-family: 'PTSerif';
+  src: url('fonts/PTSerif-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
 }
